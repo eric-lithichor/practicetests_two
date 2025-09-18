@@ -1,0 +1,14 @@
+{
+  "name": "practicetests_two",
+  "version": "1.0.0",
+  "description": "Practice Code Exam Questions",
+  "scripts": {
+    "test": "npx playwright test --headed"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
